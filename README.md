@@ -1,6 +1,4 @@
-# Desafio 05. Aplicação com ReactJS
-
-Nesse desafio você adicionará novas funcionalidades na aplicação que desenvolvemos ao longo desse módulo.
+# Github Issues - desafio rocketSeat, adicionando funcionalidades
 
 ## Funcionalidades
 
