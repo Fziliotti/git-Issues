@@ -36,16 +36,4 @@ Você pode encontrar a documentação [nesse link](https://developer.github.com/
 
 Adicione paginação nas issues listadas no detalhe do repositório. A API do Github lista no máximo 30 issues por página e você pode controlar o número da página atual por um parâmetro no endereço da requisição:
 
-```
-https://api.github.com/repos/rocketseat/unform/issues?page=2
-```
 
-Adicione apenas um botão de próxima página e página anteior. O botão de página anterior deve ficar desativado na primeira página.
-
-## Entrega
-
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do código do desafio aqui: https://github.com/Rocketseat/bootcamp-gostack-desafio-05
-
-Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
-
-“Para quem fica melhor a cada dia, ficar pronto é utopia”!
